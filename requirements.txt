@@ -1,9 +1,7 @@
 streamlit
-plotly
- 
-streamlit
 pandas
 numpy
 plotly
+seaborn
 matplotlib
 scikit-learn
